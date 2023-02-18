@@ -1,5 +1,5 @@
 # Pathfinding-Algorithms
-Visualisation of A*, Djikstra's, BFS and DFS pathfinding algorithms
+Visualisation of A*, Djikstra's, BFS and DFS pathfinding algorithms in python pygame
 
 ### A proper visualisation of the algorithms in the works can be seen with obstacles added
 https://user-images.githubusercontent.com/75097362/219879786-1f4cc3c1-8198-4c57-8eae-262da0d9fa61.mp4
