@@ -311,8 +311,9 @@ def reset(screen, type):
                 node.get_neighbours(maze)
                 node.prev = None
                 node.visited = False
-        start.draw()
-        end.draw()
+        if start and end:
+            start.draw()
+            end.draw()
     else:
         for row in maze: 
             for node in row:
